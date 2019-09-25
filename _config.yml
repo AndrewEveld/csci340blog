@@ -25,7 +25,7 @@ github_username:  AndrewEveld
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: longhaul
 plugins:
   - jekyll-feed
 
