@@ -17,7 +17,7 @@ title: Andrew Advancing
 description: Join me on my path through computer science education.
 
 url: http://andreweveld.github.io/csci340blog
-baseurl: ""
+baseurl: "/csci340blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
