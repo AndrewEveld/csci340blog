@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Andrew Eveld, and I am a current Sophomore at Hendrix College in
+Conway, Arkansas. I am pursuing a bachelor's degree in Computer Science and
+considering minoring in Mathematics. I am twenty years old, and I have one older
+brother, one older sister and two younger sisters. Yes I am a middle child and it's
+great because I'm also the favorite child.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I like to watch movies and play video games. I also like to write cool projects
+in Python and Java. I am learning HTML and CSS in one of my computer science classes.
+I hope you, the reader, find this blog informative and enjoyable.

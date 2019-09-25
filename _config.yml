@@ -33,6 +33,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Facial Hair
+    url: /facial-hair
 
 social:
   github: andreweveld

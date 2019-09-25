@@ -21,5 +21,10 @@ GitHub</a> website for information on where I should put certain things. After
 completing the second step, I now realize that there were a lot of things that
 I made more complicated that should not have been complicated. In the future,
 if I create a new blog, I will probably start with a template before I create
-anything on my actual blog. I think that would make things simpler for me. 
+anything on my actual blog. I think that would have made things simpler for me.
+I look forward to learning more about website building, but I am starting to
+think that designing layouts is not for me. CSS files seem like huge,
+hard-to-navigate messes to me. Maybe as I become more familiar with CSS, I will
+start to enjoy using it more. I am quite glad that templates exist.
+ 
 <img src="https://cdn.lynda.com/course/82409/82409-636282992381780999-16x9.jpg"/>
