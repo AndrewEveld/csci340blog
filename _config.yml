@@ -14,20 +14,33 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andrew Advancing
-email: andreweveld99@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog! Here you can see me advance throughout my
-  college years and possibly through grad school.
-baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AndrewEveld
-github_username:  AndrewEveld
+description: Join me on my path through computer science education.
 
-# Build settings
+url: http://andreweveld.github.io/csci340blog
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
 markdown: kramdown
-theme: longhaul
-plugins:
-  - jekyll-feed
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: andreweveld
+  twitter: andreweveld
+  facebook: Andrew Eveld
+  email: eveldaj@hendrix.edu
+
+google_analytics: "UA-58263416-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
