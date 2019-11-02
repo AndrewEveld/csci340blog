@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Using jQuery and APIs"
+date: 2019-11-1 22:10:38
+author: "Andrew Eveld"
+---
+The Khan Academy tutorial was adequate for this lab. It gave clear instructions
+on the uses and purposes of jQuery. The most frustrating part about combining APIs
+was finding a way to combine two different APIs in a way that made sense. Neither
+of my chosen APIs were really related to each other but I thought that I found an
+interesting way to use the capabilities of both of them. The user draws cards from
+a deck they can generate using a button. Each card they draw contributes to a score.
+The score is the number used to get an interesting fact about the number of the score.
+I found that getting each API to work was very satisfying. I anticipation many more
+problems especially because the APIs aren't under my direct control. 
