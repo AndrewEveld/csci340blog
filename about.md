@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My name is Andrew Eveld, and I am a current Sophomore at Hendrix College in
-Conway, Arkansas. I am pursuing a bachelor's degree in Computer Science and
-considering minoring in Mathematics. I am twenty years old, and I have one older
-brother, one older sister and two younger sisters. Yes I am a middle child and it's
-great because I'm also the favorite child.
+My name is Andrew Eveld, and I am a current Senior at Hendrix College in
+Conway, Arkansas. I am pursuing a bachelor's degree in Computer Science. I am 21 years old, and I have one older
+brother, one older sister and two younger sisters. I have a beautiful fianceé name Mikayla, and we're getting married in June 2022. 
 
-I like to watch movies and play video games. I also like to write cool projects
-in Python and Java. I am learning HTML and CSS in one of my computer science classes.
+I am currently working part-time at Acxiom as an Intern - Solution Developer. I previously worked at PNC Bank as a Software Developer Intern, and I am currently a member of Disco Tray Studios at Hendrix College. 
+
+I like to work on projects and use my programming skills to solve real problems. I have experience developing web and mobile apps, writing scripts, and working with databases. 
 I hope you, the reader, find this blog informative and enjoyable.
